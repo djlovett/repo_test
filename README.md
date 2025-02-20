@@ -10,3 +10,5 @@ add a line of text
 4th line (added extra space)
 
 5th line
+
+conflict check - this line added from R
