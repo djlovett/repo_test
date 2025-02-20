@@ -14,3 +14,6 @@ add a line of text
 conflict check - this line added from git
 
 conflict check2 - line added from R again
+
+conflict check again - this line added from R
+
