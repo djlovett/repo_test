@@ -12,3 +12,5 @@ add a line of text
 5th line
 
 conflict check - this line added from git
+
+conflict check again - this line added from R
